@@ -1,31 +1,30 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Jordan Huffaker's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Jordan Huffaker
+Software Engineer
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="208-995-6305">208-995-6305</a>
+| <a href="jordanbhuffaker@gmail.com">jordanbhuffaker@gmail.com</a>
+| <a href="linkedin.com/in/jordan-huffaker/">LinkedIn</a>
+| <a href="github.com/JHuffaker/">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
+`Expected 2022`
+__Brigham Young University-Idaho__
+`Rexburg, ID`
+_BS, Computer Science - Data Science Minor_
+•	Emphasis: Machine Learning
+•	Current GPA: 3.77
+•	Relevant Coursework: Machine Learning, Parallelism and Concurrency, Programming with Data Structures
+•	Vice President and Communications Chair of the Association for Computing Machinery Society
+•	“Most Polished and Professional” Award, BYU-Idaho Winter 2021 Hack-A-Thon
 
 ## Related Experience
 
