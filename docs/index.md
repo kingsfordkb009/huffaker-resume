@@ -23,9 +23,13 @@ __Brigham Young University-Idaho__
 _BS, Computer Science - Data Science Minor_
 
 •	Emphasis: Machine Learning
+
 •	Current GPA: 3.77
+
 •	Relevant Coursework: Machine Learning, Parallelism and Concurrency, Programming with Data Structures
+
 •	Vice President and Communications Chair of the Association for Computing Machinery Society
+
 •	“Most Polished and Professional” Award, BYU-Idaho Winter 2021 Hack-A-Thon
 
 ## Related Experience
