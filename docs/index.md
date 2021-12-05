@@ -18,8 +18,10 @@ Software Engineer
 
 `Expected 2022`
 __Brigham Young University-Idaho__
+
 `Rexburg, ID`
 _BS, Computer Science - Data Science Minor_
+
 •	Emphasis: Machine Learning
 •	Current GPA: 3.77
 •	Relevant Coursework: Machine Learning, Parallelism and Concurrency, Programming with Data Structures
