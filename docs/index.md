@@ -6,8 +6,7 @@ title: Jordan Huffaker's Resume
 Software Engineer
 
 <div id="webaddress">
-<a href="208-995-6305">208-995-6305</a>
-| <a href="jordanbhuffaker@gmail.com">jordanbhuffaker@gmail.com</a>
+<a href="jordanbhuffaker@gmail.com">jordanbhuffaker@gmail.com</a>
 | <a href="linkedin.com/in/jordan-huffaker/">LinkedIn</a>
 | <a href="github.com/JHuffaker/">GitHub</a>
 </div>
@@ -32,60 +31,71 @@ _BS, Computer Science - Data Science Minor_
 
 •	“Most Polished and Professional” Award, BYU-Idaho Winter 2021 Hack-A-Thon
 
-## Related Experience
+## Tools
 
-### Internships
+#### Proficient:
+•	Python
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+•	Swift/SwiftUI
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+•	Django
 
 
-## Service and Work History
+#### Competent:
+•	Java
 
-`2025-2027`
-__Math Tutor__, LDSBC
+•	C++
 
-
-`2023-2025`
-__Service Missionary__, South Africa
+•	MySQL
 
 
+## Project Experience
+
+`October 2021`
+__Impersonate Me Web Application__, Richland, WA
+
+•	Produced web application using Python and Django that employs machine learning library to superimpose videos over JPG images
+
+•	Educated team members on incorporating HTML, CSS, and media files into framework by studying Django basics over 2 days
+
+`July 2021`
+__Meteor Game__, Consultant
+
+•	Utilized object-oriented principles to construct multiplayer computer game in Python Arcade
+
+•	Provided users with TCP connection to server resulting in players being linked together in online interactive environment
+
+`June 2021`
+__Cabinet Recipes__, Consultant
+
+•	Built iOS application in Swift to create and store recipes in database by using SwiftUI to produce intuitive experience for user
+
+•	Incorporated CocoaPods to provide connection to Firebase framework allowing user to add, edit, and delete recipes from database
+
+
+`May 2021`
+__Sudoku Solver__
+
+•	Applied recursive principles and multidimensional arrays to create Java program that solves sudoku puzzles resulting in 100% accuracy
+•	Created testing units to discover and eliminate bugs in program 
+
+## Volunteer Experience
+
+`September 2021 - Present`
+__Association of Computing Machinery Society__, Vice President
+
+•	Created, coordinated, and taught coding workshops to empower society members in their classes and personal projects
+
+•	Engaged and interacted with society members and school faculty to organize forums, activities, and workshops weekly
+
+
+
+`August 2016 - July 2018`
+__The Church of Jesus Christ of Latter-day Saints__, Salvador, Brazil
+
+•	Designed and presented training meetings to motivate and enable other volunteers to increase productivity and efficiency 
+
+•	Gained appreciation for people of other cultures and countries through daily service 
 
 <!-- ### Footer
 
